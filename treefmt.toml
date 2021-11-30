@@ -4,5 +4,5 @@ includes = ["*.nix"]
 
 [formatter.haskell]
 command = "ormolu"
-options = ["--mode", "inplace"]
+options = ["--mode inplace"]
 includes = ["*.hs"]
