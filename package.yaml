@@ -1,6 +1,6 @@
 dependencies:
   - base == 4.*
-  - haskell-say
+  - criterion
   - vector
 executables:
   haskell-hello:
