@@ -1,6 +1,7 @@
 dependencies:
   - base == 4.*
   - haskell-say
+  - vector
 executables:
   haskell-hello:
     main: Main.hs
